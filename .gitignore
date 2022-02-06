@@ -2,3 +2,4 @@
 __pycache__/
 *.py[cod]
 dynamodb_local_latest/
+zappa_settings.json
